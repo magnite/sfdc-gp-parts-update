@@ -1,0 +1,4 @@
+#!/bin/bash
+
+scp rcotter_IIC.pub $REMHOST:.ssh/rcotter_IIC.pub
+
